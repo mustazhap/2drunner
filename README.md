@@ -19,3 +19,6 @@
 
 **ссылка для тестирование:**
 https://www.instagram.com/ar/3376994765678304/?ch=N2UxMjAyYjYxNDQ2YjE5MjBhZjk4MWViYWIxNDUyYTA%3D
+
+
+![alt text](https://github.com/mustazhap/2drunner/blob/master/p001.png?raw=true)
